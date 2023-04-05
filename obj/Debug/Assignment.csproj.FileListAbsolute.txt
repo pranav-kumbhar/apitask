@@ -1,0 +1,11 @@
+E:\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\Assignment\Assignment\bin\Debug\Newtonsoft.Json.dll
+E:\Assignment\Assignment\bin\Debug\Newtonsoft.Json.xml
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.SuggestedBindingRedirects.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\Assignment\Assignment\obj\Debug\Assignment.csproj.CopyComplete
+E:\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\Assignment\Assignment\obj\Debug\Assignment.pdb
